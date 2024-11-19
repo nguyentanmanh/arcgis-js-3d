@@ -1,0 +1,66 @@
+{
+    "renderer": {
+        "type": "simple",
+        "symbol": {
+            "type": "polygon-3d",
+            "symbolLayers": [
+                {
+                    "type": "extrude",
+                    "size": 14.5,
+                    "material": {
+                        "color": "#E7AD9F"
+                    }
+                }
+            ]
+        }
+    },
+    "content": {
+        "type": "FeatureCollection",
+        "generator": "smartcity",
+        "copyright": "Smartcity",
+        "timestamp": 1732009824470,
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "Building name": "Tường",
+                    "height": 14.5,
+                    "idb": "61af295e2e291e5c6b97304b"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                106.70676906996049,
+                                10.768137366453757,
+                                6.4
+                            ],
+                            [
+                                106.70697814434226,
+                                10.768228813146504,
+                                6
+                            ],
+                            [
+                                106.70691112245262,
+                                10.76837669594956,
+                                5.6
+                            ],
+                            [
+                                106.70670204803167,
+                                10.768285249116781,
+                                6
+                            ],
+                            [
+                                106.70676906996049,
+                                10.768137366453757,
+                                6.4
+                            ]
+                        ]
+                    ]
+                },
+                "id": "pp61af295e2e291e5c6b97304b"
+            }
+        ]
+    }
+}

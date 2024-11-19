@@ -1,0 +1,66 @@
+{
+    "renderer": {
+        "type": "simple",
+        "symbol": {
+            "type": "polygon-3d",
+            "symbolLayers": [
+                {
+                    "type": "extrude",
+                    "size": 1.05,
+                    "material": {
+                        "color": "#fda265"
+                    }
+                }
+            ]
+        }
+    },
+    "content": {
+        "type": "FeatureCollection",
+        "generator": "smartcity",
+        "copyright": "Smartcity",
+        "timestamp": 1732010457754,
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "Building name": "Lót mái tầng 2",
+                    "height": 1.05,
+                    "idb": "61af71d027f941af4e94c082"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                106.70675143972196,
+                                10.768092246843578,
+                                15.6
+                            ],
+                            [
+                                106.70702407270012,
+                                10.768211493303163,
+                                15.1
+                            ],
+                            [
+                                106.70692875266505,
+                                10.76842181550763,
+                                14.6
+                            ],
+                            [
+                                106.70665611960443,
+                                10.768302568809935,
+                                15.1
+                            ],
+                            [
+                                106.70675143972196,
+                                10.768092246843578,
+                                15.6
+                            ]
+                        ]
+                    ]
+                },
+                "id": "pp61af71d027f941af4e94c082"
+            }
+        ]
+    }
+}
